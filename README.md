@@ -7,7 +7,7 @@ They are formated for regular emerald but can be converted to a triple layered m
 
 1: copy the Data folder to the root of your pokeemerald directory
 
-2: Open the following 3 files from scr/data/tilesets
+2: Open the following 3 files from scr/data/tilesets in your pokemeerald project
     Graphics.h
     Headers.h
     Metatiles.h
