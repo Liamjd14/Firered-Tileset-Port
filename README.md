@@ -3,7 +3,7 @@
 This is a direct port of the tilesets from pokemon fire red to emerald designed for the pokemerald decomp. The file structure is designed to make it easy to impliment in to a project.
 They are formated for regular emerald but can be converted to a triple layered metatile format in the same way regular pokeemerald is.
 
-## How to instll
+## How to install
 
 1: copy the Data folder to the root of your pokeemerald directory
 
